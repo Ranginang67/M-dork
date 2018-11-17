@@ -26,3 +26,5 @@ how to install and usage?<br>
 * `python mdork.py`
 
 **Thanks!!**
+
+please [Subcribe](https://www.youtube.com/channel/UCNMD5U02GFeWLqmrl_XSPGQ) and support me :)
