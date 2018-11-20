@@ -27,7 +27,9 @@ how to install and usage?<br>
 * `git clone https://github.com/Ranginang67/M-dork`
 * `cd  M-dork`
 * `python mdork.py`<br>
+
 **or using gui**
+
 * `apt-get install python-tk`
 * `python mdork_gui.py`
 
