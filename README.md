@@ -7,8 +7,8 @@ what is mdork?<br>mdork is a tool built with python to do dorking, then collects
 ![2](https://github.com/Ranginang67/M-dork/blob/master/config/2.png)
 ![3](https://github.com/Ranginang67/M-dork/blob/master/config/3.png)
 **M-dork gui Example(for linux only)**
-![4](https://github.com/Ranginang67/M-dork/blob/master/config/dork_1.png)
-![5](https://github.com/Ranginang67/M-dork/blob/master/config/dork_2.png)
+![4](https://github.com/Ranginang67/M-dork/blob/master/config/memek1.png)
+![5](https://github.com/Ranginang67/M-dork/blob/master/config/memek2.png)
 <br>
 how to install and usage?<br>
 **Termux:**
